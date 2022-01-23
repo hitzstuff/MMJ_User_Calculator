@@ -8,8 +8,9 @@ How to use:
 
 That's it! Nothing to it.
 
-*NOTE:
-The program loads/saves the data from/into the mmj_allotments.txt file, located in the dist folder. Do NOT edit or delete mmj_allotments.txt, or the program will no longer function.
+ NOTE:
+   - This program loads/saves the data from/into the mmj_allotments.txt file, located in the dist folder.
+   - Do NOT edit or delete mmj_allotments.txt, or the program will no longer function.
 
 What it does:
 ------------
