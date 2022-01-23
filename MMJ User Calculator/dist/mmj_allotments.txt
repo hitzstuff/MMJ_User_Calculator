@@ -1,0 +1,6 @@
+flower oz 2.5 35
+concentrate mg 14000 70
+edible mg 14000 70
+oral mg 14000 70
+sublingual mg 14000 70
+topical mg 14000 70
