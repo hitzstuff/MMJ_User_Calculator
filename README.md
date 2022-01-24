@@ -4,7 +4,8 @@ Helps medical marijuana patients calculate their allotments beyond the state's m
 How to use:
 ----------
 1. Download the 'MMJ User Calculator' folder to the desired location on your PC.
-2. Click on the icon labeled 'mmj_user_calculator - Shortcut'
+2. Double click on the file labeled 'create_shortcut.bat', which should then create a shortcut within the 'MMJ User Calculator' folder.
+3. Double click on the shortcut link labeled 'MMJ User Calculator - Shortcut'. Feel free to move this shortcut to the Desktop, or wherever you prefer.
 
 That's it! Nothing to it.
 
